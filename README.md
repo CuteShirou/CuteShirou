@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Shiro%20%7C%20Developer&fontAlign=50&fontAlignY=35&desc=Unity%20%2B%20Blender%20%2B%20C%2B%2B%20%2B%20C%23%20%2B%20Lua%20%2B%20Python&descAlign=50&descAlignY=55" alt="Shiro GitHub Profile Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:8A2BE2,50:3B5AA9,100:009688&text=Shiro%20%7C%20Developer&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Unity%20%2B%20Blender%20%2B%20C%2B%2B%20%2B%20C%23%20%2B%20Lua%20%2B%20Python&descSize=18&descAlign=50&descAlignY=64" alt="Shiro GitHub Profile Header" />
 </p>
 
 <p align="center">
