@@ -14,7 +14,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Game+Developer+%2F+Software+Developer;Unity+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+Lua+%7C+Python;I+build+tools%2C+gameplay+systems+and+immersive+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Game+Developer+%2F+VRChat+Enthusiast;Unity+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+Lua+%7C+Python;I+build+tools%2C+gameplay+systems+and+immersive+experiences" alt="Typing SVG" />
 </p>
 
 ---
@@ -121,10 +121,6 @@ mindmap
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CuteShirou&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteShirou&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CuteShirou&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
