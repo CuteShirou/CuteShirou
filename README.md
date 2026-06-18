@@ -11,6 +11,8 @@
   <a href="#-contact">Contact</a>
 </p>
 
+<p></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Game+Developer+%2F+Software+Developer;Unity+%7C+Blender+%7C+C%23+%7C+C%2B%2B+%7C+Lua+%7C+Python;I+build+tools%2C+gameplay+systems+and+immersive+experiences" alt="Typing SVG" />
 </p>
@@ -95,16 +97,16 @@ mindmap
       <h3 align="center">🎮 Project ENARIA</h3>
       <p align="center">
         <a href="https://github.com/CuteShirou/ENARIA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO_GITHUB&repo=PROJECT_ONE" alt="Project One" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuteShirou&repo=ENARIA" alt="Project ENARIA" />
         </a>
       </p>
       <p align="center">Create an Dofus like under Unity6.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🛠️ Project Two</h3>
+      <h3 align="center">🛠️ Revolution GameCard</h3>
       <p align="center">
         <a href="https://github.com/CuteShirou/RevolutionGameCard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO_GITHUB&repo=PROJECT_TWO" alt="Project Two" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CuteShirou&repo=RevolutionGameCard" alt="Revolution GameCard" />
         </a>
       </p>
       <p align="center">Creating a card game, in the idea of the Double Twin in Evoland, in reference of the 'Triple Triad' from Final Fantasy VIII.</p>
@@ -117,12 +119,12 @@ mindmap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CuteShirou&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteShirou&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_PSEUDO_GITHUB&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=CuteShirou&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
